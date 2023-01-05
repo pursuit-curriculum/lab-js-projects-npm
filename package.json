@@ -1,0 +1,24 @@
+{
+  "name": "lab-js-projects-npm",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Build a rock, [paper and scissors game](https://en.wikipedia.org/wiki/Rock_paper_scissors) with Node.js, `readline` and the npm package [`figlet`](https://www.npmjs.com/package/figlet).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pursuit-curriculum/lab-js-projects-npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pursuit-curriculum/lab-js-projects-npm/issues"
+  },
+  "homepage": "https://github.com/pursuit-curriculum/lab-js-projects-npm#readme",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
+}
